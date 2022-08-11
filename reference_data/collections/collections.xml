@@ -603,7 +603,7 @@
     <skos:member>
       <skos:Concept rdf:about="http://localhost:8000/f7935c01-8e67-4942-8c35-46ecaa522089"/>
     </skos:member>
-    <skos:prefLabel xml:lang="en-us">{"id": "f8c4922a-fc25-4390-9a12-fbd938738d5b", "value": "Arpa Field Investigation Artifact Status"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="en-us">{"id": "f8c4922a-fc25-4390-9a12-fbd938738d5b", "value": "ARPA Field Investigation Artifact Status"}</skos:prefLabel>
     <skos:member>
       <skos:Concept rdf:about="http://localhost:8000/292dc956-3dbf-403a-9098-764919796785"/>
     </skos:member>
@@ -922,7 +922,7 @@
     <skos:member>
       <skos:Concept rdf:about="http://localhost:8000/4f2370ef-b696-4a22-bd0b-7aa058c6e330"/>
     </skos:member>
-    <skos:prefLabel xml:lang="en-us">{"id": "58e6d395-a8ef-4072-adf4-f7262aaac2b3", "value": "Other Afrh W Designation"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="en-us">{"id": "58e6d395-a8ef-4072-adf4-f7262aaac2b3", "value": "Other AFRH W Designation"}</skos:prefLabel>
     <skos:member>
       <skos:Concept rdf:about="http://localhost:8000/8fe04732-0181-4c8f-ac40-116f80cd998f"/>
     </skos:member>
@@ -1339,7 +1339,7 @@
     <skos:member>
       <skos:Concept rdf:about="http://localhost:8000/e6886c2c-7cd1-4f2d-82cd-22e775bb144e"/>
     </skos:member>
-    <skos:prefLabel xml:lang="en-us">{"id": "d0730caa-1eca-480c-a323-126999acebcb", "value": "Arpa Documentation Type"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="en-us">{"id": "d0730caa-1eca-480c-a323-126999acebcb", "value": "ARPA Documentation Type"}</skos:prefLabel>
   </skos:Collection>
   <skos:Collection rdf:about="http://localhost:8000/8729c9bb-81d3-4d10-8925-ba42699eea2f">
     <skos:member>
@@ -2141,7 +2141,7 @@
     <skos:member>
       <skos:Concept rdf:about="http://localhost:8000/4c19d0eb-9563-4757-bd87-da17442f1ef4"/>
     </skos:member>
-    <skos:prefLabel xml:lang="en-us">{"id": "86c4ffa8-23aa-4f7c-8a28-2332b3d2c48a", "value": "Other Afrh W Designation Status"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="en-us">{"id": "86c4ffa8-23aa-4f7c-8a28-2332b3d2c48a", "value": "Other AFRH W Designation Status"}</skos:prefLabel>
     <skos:member>
       <skos:Concept rdf:about="http://localhost:8000/5a4bdca0-741e-4f61-8832-81576f7f134f"/>
     </skos:member>
@@ -2243,7 +2243,7 @@
     <skos:member>
       <skos:Concept rdf:about="http://localhost:8000/f25c5464-43e3-4bb4-b1f0-bee380c308d1"/>
     </skos:member>
-    <skos:prefLabel xml:lang="en-us">{"id": "754b4d4a-83fd-4368-8e64-a8d9aab23f77", "value": "Afrh W Historic District Status"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="en-us">{"id": "754b4d4a-83fd-4368-8e64-a8d9aab23f77", "value": "AFRH W Historic District Status"}</skos:prefLabel>
     <skos:member>
       <skos:Concept rdf:about="http://localhost:8000/7e3c72b8-5ea9-472d-8d95-1e1eca8061f0"/>
     </skos:member>
@@ -2282,7 +2282,7 @@
     <skos:member>
       <skos:Concept rdf:about="http://localhost:8000/a526992c-ac4e-4e68-ae37-73a1e1d39b7a"/>
     </skos:member>
-    <skos:prefLabel xml:lang="en-us">{"id": "ecc44e71-2753-495b-80eb-49bc041ead30", "value": "Afrh Arpa Determination"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="en-us">{"id": "ecc44e71-2753-495b-80eb-49bc041ead30", "value": "AFRH ARPA Determination"}</skos:prefLabel>
     <skos:member>
       <skos:Concept rdf:about="http://localhost:8000/e5de496a-f4c3-4325-925b-b35ddf522ee3"/>
     </skos:member>
@@ -2372,7 +2372,7 @@
     <skos:member>
       <skos:Concept rdf:about="http://localhost:8000/a1870d2e-6726-4db1-83bd-f81ce2ff3665"/>
     </skos:member>
-    <skos:prefLabel xml:lang="en-us">{"id": "47861b88-2d4e-4c14-9034-67bc248ca798", "value": "Arpa Discovery Artifact Status"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="en-us">{"id": "47861b88-2d4e-4c14-9034-67bc248ca798", "value": "ARPA Discovery Artifact Status"}</skos:prefLabel>
     <skos:member>
       <skos:Concept rdf:about="http://localhost:8000/7500e39e-da07-446b-9214-61bc4c303aa3"/>
     </skos:member>
@@ -2611,7 +2611,7 @@
     <skos:member>
       <skos:Concept rdf:about="http://localhost:8000/deff31f2-c7ec-4df9-a7e4-29d605478412"/>
     </skos:member>
-    <skos:prefLabel xml:lang="en-us">{"id": "0b4afaa3-431a-4fad-b17f-d6f0490e9675", "value": "Arpa Documentation Submission Method"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="en-us">{"id": "0b4afaa3-431a-4fad-b17f-d6f0490e9675", "value": "ARPA Documentation Submission Method"}</skos:prefLabel>
     <skos:member>
       <skos:Concept rdf:about="http://localhost:8000/793c907d-3c0d-445d-8ef3-cc93d2ebedc9"/>
     </skos:member>
@@ -2809,7 +2809,7 @@
     <skos:prefLabel xml:lang="en">{"id": "df70c697-8ee6-4a55-b001-92c76bece1e0", "value": "Contact Point Types"}</skos:prefLabel>
   </skos:Collection>
   <skos:Collection rdf:about="http://localhost:8000/8bda4ffc-01a4-48c3-bdd0-6b6319d5cc10">
-    <skos:prefLabel xml:lang="en-us">{"id": "75580050-76d6-457c-b2d6-3ba200a960b3", "value": "Arpa Documentation Status"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="en-us">{"id": "75580050-76d6-457c-b2d6-3ba200a960b3", "value": "ARPA Documentation Status"}</skos:prefLabel>
     <skos:member>
       <skos:Concept rdf:about="http://localhost:8000/9de09825-d56d-4577-9051-672ab8e678eb"/>
     </skos:member>
@@ -2973,7 +2973,7 @@
     </skos:member>
   </skos:Collection>
   <skos:Collection rdf:about="http://localhost:8000/d8bfd8f6-455e-45dc-9c83-4b28d9a065cd">
-    <skos:prefLabel xml:lang="en-us">{"id": "6c4b3c9e-bfdc-4951-9cfd-a41719761556", "value": "Afrh Determination Of Effect"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="en-us">{"id": "6c4b3c9e-bfdc-4951-9cfd-a41719761556", "value": "AFRH Determination Of Effect"}</skos:prefLabel>
     <skos:member>
       <skos:Concept rdf:about="http://localhost:8000/45b8e93d-5c84-45e0-841e-34df5416750d"/>
     </skos:member>
@@ -3041,7 +3041,7 @@
     <skos:member>
       <skos:Concept rdf:about="http://localhost:8000/d2a8c2a1-86f1-4845-ae50-9d5149d56219"/>
     </skos:member>
-    <skos:prefLabel xml:lang="en-us">{"id": "23ddd23a-6fcb-451e-9d4f-9068900622d8", "value": "Arpa Field Investigation Type"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="en-us">{"id": "23ddd23a-6fcb-451e-9d4f-9068900622d8", "value": "ARPA Field Investigation Type"}</skos:prefLabel>
   </skos:Collection>
   <skos:Collection rdf:about="http://localhost:8000/8532d8eb-0508-457b-901c-66a389b141c4">
     <skos:member>
