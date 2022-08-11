@@ -2797,15 +2797,6 @@
     </skos:member>
   </skos:Collection>
   <skos:Collection rdf:about="http://localhost:8000/f9e9bc24-00f6-42d2-88ba-0fbfabbee4a2">
-    <skos:member>
-      <skos:Concept rdf:about="http://localhost:8000/183d4d65-5a7e-466d-83df-858eef939448"/>
-    </skos:member>
-    <skos:member>
-      <skos:Concept rdf:about="http://localhost:8000/084c4ed7-e6c5-4af4-be0f-7fe5d20375a0"/>
-    </skos:member>
-    <skos:member>
-      <skos:Concept rdf:about="http://localhost:8000/12acd509-aadb-4692-a152-b404c1f7a626"/>
-    </skos:member>
     <skos:prefLabel xml:lang="en">{"id": "df70c697-8ee6-4a55-b001-92c76bece1e0", "value": "Contact Point Types"}</skos:prefLabel>
   </skos:Collection>
   <skos:Collection rdf:about="http://localhost:8000/8bda4ffc-01a4-48c3-bdd0-6b6319d5cc10">
