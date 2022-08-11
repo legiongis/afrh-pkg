@@ -37,7 +37,7 @@
     <skos:member>
       <skos:Concept rdf:about="http://localhost:8000/c9e0b3a6-e785-4cfc-b81a-fe5db6694691"/>
     </skos:member>
-    <skos:prefLabel xml:lang="en-us">{"id": "ebf7947f-8c60-43f0-9090-cd653d3b17ed", "value": "Dcshpo Notification Response"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="en-us">{"id": "ebf7947f-8c60-43f0-9090-cd653d3b17ed", "value": "DCSHPO Notification Response"}</skos:prefLabel>
   </skos:Collection>
   <skos:Collection rdf:about="http://localhost:8000/760e39b5-8bcb-469e-8190-bdb42aa4ed52">
     <skos:member>
@@ -639,7 +639,7 @@
     <skos:member>
       <skos:Concept rdf:about="http://localhost:8000/8d5072e9-9fd8-4b83-9b65-7c8e98563ad7"/>
     </skos:member>
-    <skos:prefLabel xml:lang="en-us">{"id": "77f1027b-1628-4ffa-952d-b49517c4370a", "value": "Dcshpo Submission Method"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="en-us">{"id": "77f1027b-1628-4ffa-952d-b49517c4370a", "value": "DCSHPO Submission Method"}</skos:prefLabel>
     <skos:member>
       <skos:Concept rdf:about="http://localhost:8000/4ad42fe5-d9bf-40e1-9c8b-1c3e8a315c9e"/>
     </skos:member>
@@ -1126,7 +1126,7 @@
     <skos:member>
       <skos:Concept rdf:about="http://localhost:8000/557c0237-7255-4638-ae17-ba427093e6ee"/>
     </skos:member>
-    <skos:prefLabel xml:lang="en-us">{"id": "af9de657-8a3a-4f84-975a-acc8040527a9", "value": "Nrhp Resource Subcategory"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="en-us">{"id": "af9de657-8a3a-4f84-975a-acc8040527a9", "value": "NRHP Resource Subcategory"}</skos:prefLabel>
     <skos:member>
       <skos:Concept rdf:about="http://localhost:8000/743c94b6-af44-4301-9c1a-0bcdd39e8c03"/>
     </skos:member>
@@ -1231,7 +1231,7 @@
     <skos:member>
       <skos:Concept rdf:about="http://localhost:8000/d31625ba-1daf-4cbd-8d0e-658bd44fc089"/>
     </skos:member>
-    <skos:prefLabel xml:lang="en-us">{"id": "78566449-e2f0-4a76-b12f-96ede7b4ddf5", "value": "Nrhp Resource Category"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="en-us">{"id": "78566449-e2f0-4a76-b12f-96ede7b4ddf5", "value": "NRHP Resource Category"}</skos:prefLabel>
     <skos:member>
       <skos:Concept rdf:about="http://localhost:8000/53dc7ce4-00bc-4b8e-b7ca-887cea674468"/>
     </skos:member>
@@ -1579,7 +1579,7 @@
     <skos:member>
       <skos:Concept rdf:about="http://localhost:8000/a94890d0-8775-4564-b7a3-fb8b887292b2"/>
     </skos:member>
-    <skos:prefLabel xml:lang="en-us">{"id": "d8299728-3c23-44aa-970a-f34f5fb6893d", "value": "Dcshpo Notification Method"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="en-us">{"id": "d8299728-3c23-44aa-970a-f34f5fb6893d", "value": "DCSHPO Notification Method"}</skos:prefLabel>
     <skos:member>
       <skos:Concept rdf:about="http://localhost:8000/349b462f-8224-4d96-8e4c-4cff47ff575b"/>
     </skos:member>
@@ -1621,7 +1621,7 @@
     <skos:member>
       <skos:Concept rdf:about="http://localhost:8000/d853bebf-638e-494e-a15b-51aebff7d90f"/>
     </skos:member>
-    <skos:prefLabel xml:lang="en-us">{"id": "8def0fc7-e4a5-4c7c-9443-cfb2f9d901af", "value": "Nrhp Resource Type"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="en-us">{"id": "8def0fc7-e4a5-4c7c-9443-cfb2f9d901af", "value": "NRHP Resource Type"}</skos:prefLabel>
     <skos:member>
       <skos:Concept rdf:about="http://localhost:8000/4137fd0e-7fcf-48c3-8835-df03a26fd8bd"/>
     </skos:member>
@@ -2063,7 +2063,7 @@
     <skos:member>
       <skos:Concept rdf:about="http://localhost:8000/b3e21a8a-585f-412c-83ca-ce522b2ba7c1"/>
     </skos:member>
-    <skos:prefLabel xml:lang="en-us">{"id": "33d683f2-c227-42cd-8dc2-55bf7e36c10f", "value": "Dcshpo Evaluation"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="en-us">{"id": "33d683f2-c227-42cd-8dc2-55bf7e36c10f", "value": "DCSHPO Evaluation"}</skos:prefLabel>
   </skos:Collection>
   <skos:Collection rdf:about="http://localhost:8000/cb43ea48-706e-4f13-96e4-8dd1d5640c14">
     <skos:member>
@@ -2180,7 +2180,7 @@
     <skos:member>
       <skos:Concept rdf:about="http://localhost:8000/19a88d6a-bb01-4a50-87b5-07d53ad310ab"/>
     </skos:member>
-    <skos:prefLabel xml:lang="en-us">{"id": "faa87555-06f5-4fd1-94bf-d60880d78b63", "value": "Dcshpo Response Type"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="en-us">{"id": "faa87555-06f5-4fd1-94bf-d60880d78b63", "value": "DCSHPO Response Type"}</skos:prefLabel>
     <skos:member>
       <skos:Concept rdf:about="http://localhost:8000/a3a8d79a-e972-4a2e-864f-608053d6c442"/>
     </skos:member>
@@ -2833,7 +2833,7 @@
     <skos:prefLabel xml:lang="en-us">{"id": "51fd3b9b-c07a-45de-ac63-58c1bc3ec275", "value": "Submission Type"}</skos:prefLabel>
   </skos:Collection>
   <skos:Collection rdf:about="http://localhost:8000/45c41e15-46c9-4b1e-ac01-8d2ffdbf0d19">
-    <skos:prefLabel xml:lang="en-us">{"id": "161aa3e1-4df3-42ab-b970-91152faa01b7", "value": "Dcshpo Submission Type"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="en-us">{"id": "161aa3e1-4df3-42ab-b970-91152faa01b7", "value": "DCSHPO Submission Type"}</skos:prefLabel>
     <skos:member>
       <skos:Concept rdf:about="http://localhost:8000/244cdfff-d88b-4ad6-980e-1b0439cddb33"/>
     </skos:member>
